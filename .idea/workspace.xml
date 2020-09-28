@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="454b0555-9d0c-49a5-b71e-851eb7cce790" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/Image Page 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/logo_people.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/unnamed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/page2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Image Page 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/logo_mental_health.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/logo_people.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/logo_percentage_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/logo_time_bomb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/logo_virus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/loogo_click_to_pledge.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/sun_pharma_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/world_menntal_health.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nextPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile/src/main/AndroidManifest.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1i6dEZU25mjRGwwc8sYIt2OGw8r" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/images" />
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/src/images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="454b0555-9d0c-49a5-b71e-851eb7cce790" name="Default Changelist" comment="" />
+      <created>1601231864828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601231864828</updated>
+      <workItem from="1601231868061" duration="14596000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1638" height="256" key="GridCell.Tab.0.bottom" timestamp="1601233982372">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="256" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1601233982372" />
+    <state width="1638" height="256" key="GridCell.Tab.0.center" timestamp="1601233982370">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="256" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1601233982370" />
+    <state width="1638" height="256" key="GridCell.Tab.0.left" timestamp="1601233982369">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="256" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1601233982369" />
+    <state width="1638" height="256" key="GridCell.Tab.0.right" timestamp="1601233982371">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="256" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1601233982371" />
+    <state x="494" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1601231869617">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="494" y="335" key="com.intellij.ide.util.TipDialog/0.23.1680.956@0.23.1680.956" timestamp="1601231869617" />
+    <state x="495" y="289" width="689" height="472" key="find.popup" timestamp="1601232598876">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="495" y="289" width="689" height="472" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1601232598876" />
+  </component>
+</project>
